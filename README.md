@@ -96,9 +96,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cynophilist-gauri/cynophilist-gauri/output/snake.svg" alt="Snake animation" />
-
-###
