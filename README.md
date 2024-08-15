@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gauri Agarwal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🌱 I’m currently learning **full stack development and DSA**
+- 🌱 I’m currently learning **full stack development and DSA.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Cs8KTFh_NWIex8GSn62fOS0AzE76VBe5/view?usp=sharing](https://drive.google.com/file/d/1Cs8KTFh_NWIex8GSn62fOS0AzE76VBe5/view?usp=sharing)
+- 📰 Know about my experiences [https://drive.google.com/file/d/1Cs8KTFh_NWIex8GSn62fOS0AzE76VBe5/view?usp=sharing](https://drive.google.com/file/d/1Cs8KTFh_NWIex8GSn62fOS0AzE76VBe5/view?usp=sharing)
+
+- 📑 Check out my recent blog created using WordPress: [https://gauriagarwal2021.wordpress.com/](https://gauriagarwal2021.wordpress.com/)
 
 ###
 
